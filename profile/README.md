@@ -1,8 +1,8 @@
-## Hi there 👋
+## Welcome to LAMDA-BBO Group 👋
 
-This is LAMDA-BBO group, led by Associate Professor [Chao Qian](http://www.lamda.nju.edu.cn/qianc/). We are also the members of [LAMDA Group](http://www.lamda.nju.edu.cn/MainPage.ashx) @ Nanjing University, led by Professor [Zhi-Hua Zhou](http://www.lamda.nju.edu.cn/CH.People.ashx). 
+We are the LAMDA-BBO (Black-Box Optimization) group, led by Associate Professor [Chao Qian](http://www.lamda.nju.edu.cn/qianc/). Our group is a part of [LAMDA Group](http://www.lamda.nju.edu.cn/MainPage.ashx) @ Nanjing University, which is led by Professor [Zhi-Hua Zhou](http://www.lamda.nju.edu.cn/CH.People.ashx). 
 
-We are dedicated to scientific research in theories, algorithms, and applications of black-box optimization, including but not limited to:
+Our research focuses on advancing the theories, algorithms, and applications of black-box optimization. Our key areas of interest include, but are not limited to:
 
 - Theoretical analysis of evolutionary algorithms
 - Designing safe evolutionary algorithms, i.e., evolutionary algorithms with provable approximation guarantee
