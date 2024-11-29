@@ -6,6 +6,7 @@ Our research focuses on advancing the theories, algorithms, and applications of 
 
 - Theoretical analysis of evolutionary algorithms
 - Designing safe evolutionary algorithms, i.e., evolutionary algorithms with provable approximation guarantee
-- Designing efficient black-box optimization algorithms, e.g., Bayesian optimization, evolutionary strategies, evolutionary gradient optimization, cooperative coevolution, and learning to optimize
+- Designing efficient black-box optimization algorithms, e.g., Bayesian optimization, evolutionary strategies, evolutionary gradient optimization, and cooperative coevolution
+- Learning to optimize, e.g., learning to configure, generate and select black-box optimzition algorithms, offline optimization, and neural combinatorial optimization
 - Evolutionary learning, particularly evolutionary reinforcement learning, deep learning, and ensemble learning
-- Applications to solve real-world complex optimziation problems, e.g., in wireless network, electronic design automation, and geoscience
+- Applications to solve complex real-world optimziation problems in industry (e.g., electronic design automation) and science (e.g., geoscience)
